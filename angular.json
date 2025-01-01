@@ -57,7 +57,7 @@
               "optimization": false,
               "extractLicenses": false,
               "sourceMap": true,
-              "baseHref": "/expense-mgmt-tool/",
+              "baseHref": "/ng-expense-mgmt-tool/",
               "outputPath": {
                 "base": "docs",
                 "browser": ""
